@@ -31,8 +31,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ### Website Link
 
-https://sheltered-garden-29553.herokuapp.com
+https://matthewgrisham.github.io/notetaker/
 
 ### Screenshots
 
-
+![screenshot](https://github.com/MatthewGrisham/notetaker/blob/main/public/assets/images/unknown.png)

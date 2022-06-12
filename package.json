@@ -14,11 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MatthewGrisham/note-taker.git"
+    "url": "git+https://github.com/MatthewGrisham/notetaker.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/MatthewGrisham/note-taker/issues"
+    "url": "https://github.com/MatthewGrisham/notetaker/issues"
   },
-  "homepage": "https://github.com/MatthewGrisham/note-taker#readme"
+  "homepage": "https://github.com/MatthewGrisham/notetaker#readme"
 }
